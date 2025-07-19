@@ -53,11 +53,11 @@ Desktop.ini
 # *.xls
 
 # Output files
-output/
-*.png
-*.jpg
-*.jpeg
-*.pdf
+#output/
+#*.png
+#*.jpg
+#*.jpeg
+#*.pdf
 
 # Logs
 *.log
